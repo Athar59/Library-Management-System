@@ -51,6 +51,14 @@ The **Library Management System** is a simple command-line Java application that
 To download the latest release, visit:\
 [📌 Library Management System Releases](https://github.com/Athar59/Library-Management-System/releases)
 
+## Challenges & Improvements 🚀
+
+- Implemented **exception handling** to manage invalid inputs and system errors.
+- Ensured **efficient data management** using collections for book storage.
+- Future improvements could include **database integration** for persistent storage.
+- A **GUI interface** could enhance usability and user experience.
+- Adding **user authentication** would improve security and access control.
+
 ## 🤝 Contributing
 
 Feel free to **fork** the repository and submit **pull requests** with improvements. Contributions are welcome! 🎉
